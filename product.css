@@ -11,3 +11,8 @@
 .product h3 {
     color: tomato;
 }
+
+.product img{
+    object-fit: contain;
+    width: 100%;
+}
